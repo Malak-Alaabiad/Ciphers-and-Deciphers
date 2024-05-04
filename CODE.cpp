@@ -1,13 +1,12 @@
-// File Name: CS112_A2_T2_S2_20230621_20230417
+
 // Purpose: This Program Can encrypt or decrypt any message you want using two different ciphers.
 // The first is ( Route Cipher ). In this cipher, a secret integer key is used to create a matrix whose number of columns is equal to the key
 // and then the message is written in as many rows as needed in this matrix. Then the encrypted message is collected by going in a spiral path starting from the top right corner.
 // The Second is ( Morse Cipher ). In this cipher, you can translate a message to Morse code and the opposite.
 // Assume that each letter is separated by one space from the next and that each word is separated by three spaces from the next.
-// Authors: Mo'men Mohamed Mahmoud Mohamed Yosri     =>ID: 20230621    => Section: S2     => Ciphers: ( 2, 6, 7 )
-//          Malak Mohamed Saad Fahmy Al-Aabiad       =>ID: 20230417    => Section: S2     => Ciphers: ( 1, 3, 4, 5, 8, 9, 10, main function)
-// Emails:  momen.yosri@gmail.com
-//          malakkalaabiadd@gmail.com
+// Authors: Malak Mohamed Saad Fahmy Al-Aabiad
+// Emails: malakkalaabiadd@gmail.com
+
 
 #include <iostream>
 #include <string>
